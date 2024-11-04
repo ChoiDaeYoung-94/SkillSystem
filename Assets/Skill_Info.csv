@@ -1,0 +1,9 @@
+actor,skillName,coolDown,mpCost,damage,isTargetable,range,stunnedOrImmobile
+blitzcrank,RocketGrab,10,80,20,FALSE,10,1.5
+blitzcrank,blitzcrank_w,5,50,10,FALSE,0,0
+blitzcrank,blitzcrank_e,4,40,5,FALSE,2,0
+blitzcrank,blitzcrank_r,3,20,1,FALSE,10,0
+ezreal,MysticShot,9,50,10,FALSE,10,0
+ezreal,ezreal_w,5,40,5,FALSE,10,0
+ezreal,ezreal_e,4,30,3,FALSE,8,0
+ezreal,ezreal_r,3,20,1,FALSE,100,0
